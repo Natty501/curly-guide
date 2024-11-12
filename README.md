@@ -9,6 +9,6 @@ Stranger Things is a *sci-fi horror drama series* set in the 1980s, blending sup
 | **Release Year**        | 2016                                                 |
 | **Genre**               | Science Fiction, Horror, Drama                       |
 | **Creators**            | The Duffer Brothers                                  |
-| **Main Characters**     | Eleven, Mike, Dustin, Lucas, and Will                |
+| **Main Characters**     | Eleven, Mike, Dustin, Lucas, and Will                
 
 
